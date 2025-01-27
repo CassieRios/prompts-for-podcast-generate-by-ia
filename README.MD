@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-    [O Poder do Código: A arte e a magia por trás das interfaces](output/podcast_editado.MP3)
+    [O Poder do Código: A arte e a magia por trás das interfaces](https://github.com/CassieRios/prompts-for-podcast-generate-by-ia/blob/main/output/podcast_editado.MP3)
 </div>
 
 # Projeto Podcast Gerado por I.A.s
