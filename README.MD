@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="O Poder do Código: A arte e a magia por trás das interfaces"></audio>
+    [O Poder do Código: A arte e a magia por trás das interfaces](output/podcast_editado.MP3)
 </div>
 
 # Projeto Podcast Gerado por I.A.s
